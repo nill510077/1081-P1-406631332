@@ -1,0 +1,49 @@
+.date {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em;
+    color: #024a92;
+}
+
+.time{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 5px;
+    text-align: center;
+    letter-spacing: 0.16em;
+    color: #f3a10a;
+    width: 120px;
+    height: 60px;
+    background-color: rgb(255, 255, 200);
+}
+
+.course{
+    font-family:Microsoft JhengHei;
+    letter-spacing: 0.16em;
+    width: 120px;
+    height: 60px;
+    background-color: rgb(214, 250, 220);
+    font-style: initial;
+    color: rgb(17, 124, 119);
+}
+
+#lunch{
+    font-family:Lucida Console;
+    letter-spacing: 0.14em;
+    width: 120px;
+    height: 60px;
+    background-color: rgb(253, 229, 176);
+    color: rgb(255, 142, 122);
+    font-size: 2em;
+}
+
+.empty{
+    width: 120px;
+    height: 60px;
+    background-color: rgb(231, 228, 224);
+}
+table{
+    margin-top: 90px;
+    border-collapse:collapse;
+    border-color: rgb(180, 178, 178);
+}
+

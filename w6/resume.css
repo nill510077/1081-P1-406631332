@@ -1,0 +1,162 @@
+body {
+  width: 80%;
+  height: 180% ;
+  margin: 20px auto ;
+  margin-top: 100px;
+  border: 15px solid rgb(230, 236, 238);
+}
+
+div{
+    margin-right: auto ;
+    margin-left: auto ;
+}
+
+#heading{
+    height: 15% ;
+    margin-top: 30px ;
+    margin-left: 5% ;
+    margin-right: 5%;
+    border-bottom: 2px solid #b1dffa;
+}
+
+#name{
+    text-align: center;
+    background-color: rgb(99, 199, 224);
+    color: white;
+    font-family:Microsoft JhengHei;
+    font-size: 3em;
+    padding: 20px;
+    letter-spacing: 7px;
+    margin-bottom: 30px;
+}
+#info li{
+    float: left;
+    width: 25%;
+   list-style-type: none;
+}
+.text{
+    font-family:Microsoft JhengHei ;
+    color:rgb(0, 123, 255);
+}
+.text:hover{
+    color:rgb(255, 174, 0);
+    cursor: pointer;
+}
+
+#section{
+    height: 60%;
+}
+
+#personality{
+    float: left;
+    font-family: Microsoft JhengHei;
+    width: 40%;
+    margin-top: 1.7%;
+    margin-left: 5%;
+    margin-right: 5%;
+    /* border-bottom: 2px solid #b1dffa; */
+    height: 45%;  
+    /* padding-bottom:3.6%; */
+}
+#section li {
+    list-style-type: none;
+    font-size: 2.3em;
+    color: rgb(89, 183, 247);
+    letter-spacing: 0.5em;
+    margin-top: 20px;
+   margin-bottom: 50px;
+   font-weight: bold;;
+}
+
+
+#per-div li{
+    list-style-type: none;
+    letter-spacing: 0.2em;
+    line-height: 0.5em;
+    font-size: 1.15em;
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+
+#about{
+    float: right;
+    font-family: Microsoft JhengHei;
+    width: 40%;
+    margin-top: 1.7%;
+    margin-left: 2%;
+    margin-right: 5%;
+    /* border-bottom: 2px solid #b1dffa; */
+    height: 45%;  
+    /* padding-bottom:0.7%; */
+}
+
+p{
+    font-size: 1.15em;
+    line-height: 1.5em;
+}
+#about p{
+    font-family: Microsoft JhengHei;
+    font-weight: bold;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    color: rgb(26, 25, 25);
+}
+#hobby{
+    float: left;
+    font-family: Microsoft JhengHei;
+    width: 40%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    /* border-bottom: 2px solid #b1dffa; */
+    height: 45%;  
+    /* padding-bottom:3%; */
+}
+
+#hobby img{
+    width: 20%;
+    margin: 6%;
+    float: left;
+}
+#experience{
+    float: right;
+    font-family: Microsoft JhengHei;
+    width: 40%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    /* border-bottom: 2px solid #b1dffa; */
+    height: 45%;  
+    /* padding-bottom:3%; */
+}
+.ex-sub{
+    padding-top: 15px;
+}
+
+#experience p{
+    font-size: 1em ;
+    line-height: 1.2em ;
+    color: rgb(156, 160, 168) ;
+}
+
+#exp-text li{
+    font-family: Microsoft JhengHei;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: rgb(26, 25, 25);
+    letter-spacing: 2px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#exp-text p{
+    font-family: Microsoft JhengHei;
+    font-weight: bold;
+    color: rgb(187, 187, 187);
+    font-size: 1.1em;
+    letter-spacing: 2px;
+}
+
+
+
+   
